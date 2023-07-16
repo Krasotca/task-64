@@ -1,0 +1,15 @@
+D:\Рекурсия\задача64\bin\Debug\net6.0\задача64.exe
+D:\Рекурсия\задача64\bin\Debug\net6.0\задача64.deps.json
+D:\Рекурсия\задача64\bin\Debug\net6.0\задача64.runtimeconfig.json
+D:\Рекурсия\задача64\bin\Debug\net6.0\задача64.dll
+D:\Рекурсия\задача64\bin\Debug\net6.0\задача64.pdb
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.csproj.AssemblyReference.cache
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.AssemblyInfoInputs.cache
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.AssemblyInfo.cs
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.csproj.CoreCompileInputs.cache
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.dll
+D:\Рекурсия\задача64\obj\Debug\net6.0\refint\задача64.dll
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.pdb
+D:\Рекурсия\задача64\obj\Debug\net6.0\задача64.genruntimeconfig.cache
+D:\Рекурсия\задача64\obj\Debug\net6.0\ref\задача64.dll
